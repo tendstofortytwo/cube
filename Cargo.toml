@@ -1,0 +1,10 @@
+[package]
+name = "cube"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra-glm = "*"
+flo_draw = "0.3"
+flo_canvas = "0.3"
+futures = "0.3"
