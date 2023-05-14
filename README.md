@@ -10,6 +10,8 @@ a simple cube.
     - press l to lock size scaling so that all axes scale together.
 * press r to reset everything.
 
+\* cubeness no longer guaranteed under non-uniform scaling.
+
 ## license
 
 MIT license; see LICENSE.md.
